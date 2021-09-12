@@ -1,4 +1,4 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+<!-- # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio) -->
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
@@ -123,7 +123,7 @@ export const heroData = {
 
 ```javascript
 export const aboutData = {
-  img: 'profile.jpg', // put your profile image (recommended aspect radio: square)
+  img: 'profile.jpeg', // put your profile image (recommended aspect radio: square)
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -167,7 +167,7 @@ export const projectsData = [
 export const contactData = {
   cta: '', // call to action text for the contact section
   btn: '', // text inside the button
-  email: '',
+  email: 'kgajjar001@gmail.com',
 };
 ```
 
@@ -182,17 +182,17 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '', // your twitter url
+      url: 'https://twitter.com/karangajjar_', // your twitter url
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '', // your codepen url
+      url: 'https://codepen.io/', // your codepen url
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '', // your linkedin url
+      url: 'https://www.linkedin.com/in/gajjarkaran/', // your linkedin url
     },
     {
       id: nanoid(),
