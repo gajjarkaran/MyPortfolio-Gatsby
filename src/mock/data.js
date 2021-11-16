@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'project2.jpg',
     title: 'Verification of Academic records using Blockchain',
     info: 'A web application that serves as a tool to validate the academic records of students by using Ethereum blockchain. The primary motive behind this project is to provide a facility for the organizations to validate the academic records of the job- seeking applicants.',
-    info2: 'Performed intense research on blockchain and ethereum decentralized applications Used Web3js library of Ethereum to interact with local and remote nodes using HTTP and WebSocket',
+    info2:'Performed intense research on blockchain and ethereum decentralized applications Used Web3js library of Ethereum to interact with local and remote nodes using HTTP and WebSocket',
     url: 'https://github.com/gajjarkaran/record_validation',
     repo: 'https://github.com/gajjarkaran/record_validation', // if no repo, the button will not show up
   },
