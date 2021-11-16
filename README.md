@@ -1,6 +1,6 @@
 # Link to the portfolio: 
 
-https://awesome-nightingale-c982da.netlify.app/
+https://gajjarkaran.netlify.app/
 
 
 Open your terminal, and enter the following command (you should have Node.js installed):
